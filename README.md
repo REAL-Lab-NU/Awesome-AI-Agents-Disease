@@ -129,7 +129,13 @@ _Papers below are listed chronologically. For disease-specific organization, see
 
 ## Year 2025
 
-
+1. [CHI 2025] **Patrika: AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking** [[paper]](https://dl.acm.org/doi/10.1145/3706598.3714280)
+1. [MDS 2025] **A Conversational GPT Agent for Parkinson's Disease (PD-GPT)** [[paper]](https://www.mdsabstracts.org/abstract/a-conversational-gpt-agent-for-parkinsons-disease/)
+1. [PubMed 2025] **Leveraging Large Language Models for Personalized Parkinson's Disease Treatment** [[paper]](https://pubmed.ncbi.nlm.nih.gov/40748804/)
+1. [Scientific Reports 2025] **Detection and diagnosis of diabetic retinopathy in retinal fundus images using agentic AI approaches** [[paper]](https://www.nature.com/articles/s41598-025-34016-0)
+1. [Scientific Reports 2025] **My diabetes care: an AI-based mobile app with conversational agent for type 2 diabetes self-management** [[paper]](https://www.nature.com/articles/s41598-025-24172-8)
+1. [J Healthcare Informatics Research 2025] **Assessing the User Experience of an LLM-Based Conversational Assistant in Diabetes Mellitus Care** [[paper]](https://link.springer.com/article/10.1007/s41666-025-00217-5)
+1. [medRxiv 2025] **Developing a GraphRAG-enabled local-LLM for Gestational Diabetes Mellitus** [[paper]](https://www.medrxiv.org/content/10.1101/2025.04.28.25326568v1)
 1. [arxiv 2025.12] **Hybrid-Code: A Privacy-Preserving, Redundant Multi-Agent Framework for Reliable Local Clinical Coding** [[paper]](https://arxiv.org/abs/2512.23743)
 1. [arxiv 2025.12] **ClinDEF: A Dynamic Evaluation Framework for Large Language Models in Clinical Reasoning** [[paper]](https://arxiv.org/abs/2512.23440)
 1. [arxiv 2025.12] **HARMON-E: Hierarchical Agentic Reasoning for Multimodal Oncology Notes to Extract Structured Data** [[paper]](https://arxiv.org/abs/2512.19864)
@@ -326,6 +332,7 @@ _Papers below are listed chronologically. For disease-specific organization, see
 
 ## Year 2024
 
+1.  [ACM Workshop 2024] **LLM-Powered Multimodal AI Conversations for Diabetes Prevention** [[paper]](https://dl.acm.org/doi/10.1145/3643479.3662049)
 1.  [arxiv 2024.12] **PsyDraw: A Multi-Agent Multimodal System for Mental Health Screening in Left-Behind Children** [[paper]](http://arxiv.org/abs/2412.14769v1)
 1.  [Bioinformatics] **AI-HOPE: an AI-driven conversational agent for enhanced clinical and genomic data integration in precision medicine research** [[paper]](https://academic.oup.com/bioinformatics/article/41/7/btaf359/8169327)
 1.  [arxiv 2024.10] **IMAS: A Comprehensive Agentic Approach to Rural Healthcare Delivery** [[paper]](http://arxiv.org/abs/2410.12868v1) [[project page]](https://github.com/uheal/imas)
@@ -455,6 +462,9 @@ _AI agents for Alzheimer’s disease, dementia, Parkinson’s, and neurological 
 | **The PDC30 Chatbot--Development of a Psychoeducational Resource on Dementia Caregiving Among Family Caregivers: Mixed Methods Acceptability Study** | JMIR Aging | 2025 | [Paper](https://aging.jmir.org/2025/1/e63715) | Not Available |
 | **Agent-guided AI-powered interpretation and reporting of nerve conduction studies and EMG (INSPIRE)** | Clinical Neurophysiology | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S1388245725006443) | Not Available |
 | **A Conversational Agent for Early Detection of Neurotoxic Effects of Medications through Automated Intensive Observation** | PACIFIC SYMPOSIUM ON BIOCOMPUTING | 2024 | [Paper](https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0003) | Not Available |
+| **Patrika: AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking** | CHI | 2025 | [Paper](https://dl.acm.org/doi/10.1145/3706598.3714280) | Not Available |
+| **A Conversational GPT Agent for Parkinson's Disease (PD-GPT)** | MDS Abstracts | 2025 | [Paper](https://www.mdsabstracts.org/abstract/a-conversational-gpt-agent-for-parkinsons-disease/) | Not Available |
+| **Leveraging Large Language Models for Personalized Parkinson's Disease Treatment** | PubMed | 2025 | [Paper](https://pubmed.ncbi.nlm.nih.gov/40748804/) | Not Available |
 
 ---
 
@@ -493,6 +503,11 @@ _AI agents for diabetes management, PCOS diagnosis, and nutrition intervention._
 | **The Effectiveness of a Custom AI Chatbot for Type 2 Diabetes Mellitus Health Literacy: Development and Evaluation Study** | JMIR | 2025 | [Paper](https://doi.org/10.2196/70131) | Not Available |
 | **Knowledge-infused LLM-powered conversational health agent: A case study for diabetes patients** | IEEE EMBC | 2025 | [Paper](https://ieeexplore.ieee.org/document/10781547) | Not Available |
 | **FinAgent: An Agentic AI Framework Integrating Personal Finance and Nutrition Planning** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.20991) | Not Available |
+| **Detection and diagnosis of diabetic retinopathy in retinal fundus images using agentic AI approaches** | Scientific Reports | 2025 | [Paper](https://www.nature.com/articles/s41598-025-34016-0) | Not Available |
+| **My diabetes care: an AI-based mobile app with conversational agent for type 2 diabetes self-management** | Scientific Reports | 2025 | [Paper](https://www.nature.com/articles/s41598-025-24172-8) | Not Available |
+| **LLM-Powered Multimodal AI Conversations for Diabetes Prevention** | ACM Workshop | 2024 | [Paper](https://dl.acm.org/doi/10.1145/3643479.3662049) | Not Available |
+| **Assessing the User Experience of an LLM-Based Conversational Assistant in Diabetes Mellitus Care** | J Healthcare Informatics Research | 2025 | [Paper](https://link.springer.com/article/10.1007/s41666-025-00217-5) | Not Available |
+| **Developing a GraphRAG-enabled local-LLM for Gestational Diabetes Mellitus** | medRxiv | 2025 | [Paper](https://www.medrxiv.org/content/10.1101/2025.04.28.25326568v1) | Not Available |
 
 ---
 
