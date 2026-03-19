@@ -127,11 +127,8 @@ _Papers below are listed chronologically. For disease-specific organization, see
 1. [ICLR 2026] **MedAgentGym: Training LLM Agents for Code-Based Medical Reasoning at Scale** [[paper]](https://openreview.net/pdf?id=oZSofhtmIc#page=0.42) [[Github]](https://github.com/wshi83/MedAgentGym)
 1. [AAAI 2026] **LungNoduleAgent: A Collaborative Multi-Agent System for Precision Diagnosis of Lung Nodules** [[paper]](https://arxiv.org/abs/2511.21042) [[Github]](https://github.com/ImYangC7/LungNoduleAgent)
 1.  [Nature Communications 2026] **Wearable Intelligent Throat Enables Natural Speech in Stroke Patients with Dysarthria** [[paper]](http://arxiv.org/abs/2411.18266v3)
-1. [Communications Medicine 2026] **Automating clinical phenotyping using natural language processing** [[paper]](https://www.nature.com/articles/s43856-025-01337-0)
-1. [Front Digital Health 2026] **Large language models for neurology: a mini review** [[paper]](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1732759/full)
 1. [npj Digital Medicine 2026] **MoMA: a mixture-of-multimodal-agents architecture for enhancing clinical prediction modelling** [[paper]](https://www.nature.com/articles/s41746-025-02219-4)
 1. [Comput Biol Med 2026] **Multimodal diagnosis of Parkinson's disease with an internet-based collaborative agent architecture of medical language models** [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482526000296)
-1. [JAMIA 2026] **Testing and evaluation of generative large language models in electronic health record applications: a systematic review** [[paper]](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocaf233/8424252)
 
 ## Year 2025
 
@@ -337,17 +334,8 @@ _Papers below are listed chronologically. For disease-specific organization, see
 1. [npj Digital Medicine 2025] **Enhancing diagnostic capability with multi-agents conversational large language models** [[paper]](https://www.nature.com/articles/s41746-025-01550-0) [[Github]](https://github.com/geteff1/Multi-agent-conversation-for-disease-diagnosis)
 1. [medRxiv 2025] **AI agents in clinical medicine: a systematic review** [[paper]](https://www.medrxiv.org/content/10.1101/2025.08.22.25334232v1)
 1. [Applied Sciences 2025] **A Conversational Agent for Empowering People with Parkinson’s Disease in Exercising Through Motivation and Support** [[paper]](https://www.mdpi.com/2076-3417/15/1/223)
-1. [Stroke 2025] **Accuracy of Large Language Models to Identify Stroke Subtypes Within Unstructured Electronic Health Record Data** [[paper]](https://www.ahajournals.org/doi/abs/10.1161/STROKEAHA.125.051993)
 1. [Alz & Dement TRCI 2025] **AI approaches for phenotyping Alzheimer’s disease and related dementias using electronic health records** [[paper]](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70089)
-1. [npj Parkinson's Disease 2025] **Detecting neuropsychiatric fluctuations in Parkinson’s Disease using patients’ own words: the potential of large language models** [[paper]](https://www.nature.com/articles/s41531-025-00939-8)
-1. [Scientific Reports 2025] **Evaluating language model embeddings for Parkinson’s disease cohort harmonization using a novel manually curated variable mapping schema** [[paper]](https://www.nature.com/articles/s41598-025-06447-2)
-1. [Nature Communications 2025] **Integrating a host biomarker with a large language model for diagnosis of lower respiratory tract infection** [[paper]](https://www.nature.com/articles/s41467-025-66218-5)
-1. [Comput Biol Med 2025] **Integrating large language models with human expertise for disease detection in electronic health records** [[paper]](https://www.sciencedirect.com/science/article/pii/S0010482525005128)
-1. [J Med Internet Res 2025] **Large Language Model Symptom Identification From Clinical Text: Multicenter Study** [[paper]](https://www.jmir.org/2025/1/e72984/)
-1. [BMJ Open Gastroenterol 2025] **Large language models for extracting histopathologic diagnoses of colorectal cancer and dysplasia from electronic health records** [[paper]](https://bmjopengastro.bmj.com/content/12/1/e001896)
-1. [PLOS Digital Health 2025] **Linguistic changes in spontaneous speech for detecting Parkinson’s disease using large language models** [[paper]](https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000757)
 1. [Bioengineering 2025] **PARKA AI: A Sensor-Integrated Mobile Application for Parkinson’s Disease Monitoring and Self-Management** [[paper]](https://www.mdpi.com/2306-5354/12/10/1059)
-1. [npj Digital Medicine 2025] **Social determinants of health extraction from clinical notes across institutions using large language models** [[paper]](https://www.nature.com/articles/s41746-025-01645-8)
 1. [Scientific Reports 2025] **Web based AI-driven framework combining multi-modal data with CNN and LLM for Parkinson’s disease diagnosis** [[paper]](https://www.nature.com/articles/s41598-025-22448-7)
 
 
@@ -393,13 +381,6 @@ _Papers below are listed chronologically. For disease-specific organization, see
 1. [CHI EA 2024] **Conversational AI in health: Design considerations from a Wizard-of-Oz dermatology case study with users, clinicians and a medical LLM** [[paper]](https://dl.acm.org/doi/10.1145/3613905.3651891)
 1. [Healthcare Information 2024] **A Medical Consultation System for Geriatric Disease Based on Multi-agent Architecture and Knowledge Graph** [[paper]](https://link.springer.com/chapter/10.1007/978-981-96-5597-7_28)
 1. [Cell 2024] **Empowering biomedical discovery with AI agents** [[paper]](https://www.cell.com/cell/fulltext/S0092-8674(24)01070-5) [[Github]](https://github.com/OmicsML/awesome-agents-biology-papers)
-1. [BMC Med Inform Decis Mak 2024] **A hybrid framework with large language models for rare disease phenotyping** [[paper]](https://link.springer.com/article/10.1186/s12911-024-02698-7)
-1. [Headache 2024] **A large language model-based generative natural language processing framework fine-tuned on clinical notes accurately extracts headache frequency from electronic health records** [[paper]](https://headachejournal.onlinelibrary.wiley.com/doi/abs/10.1111/head.14702)
-1. [Prog Cardiovasc Dis 2024] **ChatGPT-4 extraction of heart failure symptoms and signs from electronic health records** [[paper]](https://www.sciencedirect.com/science/article/pii/S0033062024001476)
-1. [npj Parkinson's Disease 2024] **Disease progression strikingly differs in research and real-world Parkinson’s populations** [[paper]](https://www.nature.com/articles/s41531-024-00667-5)
-1. [J Clin Oncol 2024] **Enhancing Precision in Detecting Severe Immune-Related Adverse Events: Comparative Analysis of Large Language Models and International Classification of Disease Codes in Patient Records** [[paper]](https://ascopubs.org/doi/10.1200/JCO.24.00326) [[Project]](https://github.com/ginnysun/LLM-for-irAEs)
-1. [JAMIA 2024] **Large language models facilitate the generation of electronic health record phenotyping algorithms** [[paper]](https://academic.oup.com/jamia/article/31/9/1994/7645319)
-1. [Gastro Hep Advances 2024] **Large Language Models Outperform Traditional Natural Language Processing Methods in Extracting Patient-Reported Outcomes in Inflammatory Bowel Disease** [[paper]](https://www.sciencedirect.com/science/article/pii/S2772572324001584)
 1. [Front Public Health 2024] **MoveONParkinson: developing a personalized motivational solution for Parkinson’s disease management** [[paper]](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1420171/full)
 
 
@@ -446,8 +427,6 @@ _AI agents for cancer diagnosis, pathology, oncology MDT, survival prediction, r
 | **Path-RAG: Knowledge-Guided Key Region Retrieval for Open-ended Pathology Visual Question Answering** | MLHS | 2025 | [Paper](https://proceedings.mlr.press/v259/naeem25a.html) | ![Star](https://img.shields.io/github/stars/embedded-robotics/path-rag.svg?style=social&label=Star) <br> [GitHub](https://github.com/embedded-robotics/path-rag) |
 | **Pathgen-1.6m: 1.6 million pathology image-text pairs generation through multi-agent collaboration** | ICLR (Oral) | 2024 | [Paper](https://arxiv.org/abs/2407.00203) | ![Star](https://img.shields.io/github/stars/PathFoundation/PathGen-1.6M.svg?style=social&label=Star) <br> [GitHub](https://github.com/PathFoundation/PathGen-1.6M) |
 | **PathAsst: A Generative Foundation AI Assistant towards Artificial General Intelligence of Pathology** | AAAI | 2024 | [Paper](https://arxiv.org/abs/2305.15072) | ![Star](https://img.shields.io/github/stars/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology.svg?style=social&label=Star) <br> [GitHub](https://github.com/superjamessyx/Generative-Foundation-AI-Assistant-for-Pathology) |
-| **Large language models for extracting histopathologic diagnoses of colorectal cancer and dysplasia from electronic health records** | BMJ Open Gastroenterology | 2025 | [Paper](https://bmjopengastro.bmj.com/content/12/1/e001896) | Not Available |
-| **Enhancing Precision in Detecting Severe Immune-Related Adverse Events: Comparative Analysis of Large Language Models and International Classification of Disease Codes in Patient Records** | Journal of Clinical Oncology | 2024 | [Paper](https://ascopubs.org/doi/10.1200/JCO.24.00326) | [Project](https://github.com/ginnysun/LLM-for-irAEs) |
 
 ---
 
@@ -501,13 +480,9 @@ _AI agents for Alzheimer’s disease, dementia, Parkinson’s, and neurological 
 | **Prompting and Fine-Tuning Large Language Models for Parkinson Disease Diagnosis** | JMIR Medical Informatics | 2026 | [Paper](https://medinform.jmir.org/2026/1/e77561) | Not Available |
 | **Multimodal diagnosis of Parkinson's disease with an internet-based collaborative agent architecture of medical language models** | Computers in Biology and Medicine | 2026 | [Paper](https://www.sciencedirect.com/science/article/pii/S0010482526000296) | Not Available |
 | **Web based AI-driven framework combining multi-modal data with CNN and LLM for Parkinson’s disease diagnosis** | Scientific Reports | 2025 | [Paper](https://www.nature.com/articles/s41598-025-22448-7) | Not Available |
-| **Detecting neuropsychiatric fluctuations in Parkinson’s Disease using patients’ own words: the potential of large language models** | npj Parkinson's Disease | 2025 | [Paper](https://www.nature.com/articles/s41531-025-00939-8) | Not Available |
-| **Linguistic changes in spontaneous speech for detecting Parkinson’s disease using large language models** | PLOS Digital Health | 2025 | [Paper](https://journals.plos.org/digitalhealth/article?id=10.1371%2Fjournal.pdig.0000757) | Not Available |
-| **Evaluating language model embeddings for Parkinson’s disease cohort harmonization using a novel manually curated variable mapping schema** | Scientific Reports | 2025 | [Paper](https://www.nature.com/articles/s41598-025-06447-2) | Not Available |
 | **PARKA AI: A Sensor-Integrated Mobile Application for Parkinson’s Disease Monitoring and Self-Management** | Bioengineering | 2025 | [Paper](https://www.mdpi.com/2306-5354/12/10/1059) | Not Available |
 | **A Conversational Agent for Empowering People with Parkinson’s Disease in Exercising Through Motivation and Support** | Applied Sciences | 2025 | [Paper](https://www.mdpi.com/2076-3417/15/1/223) | Not Available |
 | **AI approaches for phenotyping Alzheimer’s disease and related dementias using electronic health records** | Alzheimer's & Dementia: Translational Research & Clinical Interventions | 2025 | [Paper](https://alz-journals.onlinelibrary.wiley.com/doi/10.1002/trc2.70089) | Not Available |
-| **Disease progression strikingly differs in research and real-world Parkinson’s populations** | npj Parkinson's Disease | 2024 | [Paper](https://www.nature.com/articles/s41531-024-00667-5) | Not Available |
 | **MoveONParkinson: developing a personalized motivational solution for Parkinson’s disease management** | Frontiers in Public Health | 2024 | [Paper](https://www.frontiersin.org/journals/public-health/articles/10.3389/fpubh.2024.1420171/full) | Not Available |
 
 ---
@@ -522,7 +497,6 @@ _AI agents for heart failure, cardiac imaging, cardiologist-level diagnosis, and
 | **ClinNoteAgents: An LLM Multi-Agent System for Predicting and Interpreting Heart Failure 30-Day Readmission from Clinical Notes** | arXiv | 2025.12 | [Paper](https://arxiv.org/abs/2512.07081) | Not Available |
 | **Multi-Agent Reasoning for Cardiovascular Imaging Phenotype Analysis** | MICCAI | 2025.07 | [Paper](http://arxiv.org/abs/2507.03460v2) | ![Star](https://img.shields.io/github/stars/MengyunQ/MESHAgents.svg?style=social&label=Star) <br> [GitHub](https://github.com/MengyunQ/MESHAgents) |
 | **Zodiac: A Cardiologist-Level LLM Framework for Multi-Agent Diagnostics** | arXiv | 2024.10 | [Paper](http://arxiv.org/abs/2410.02026v1) | Not Available |
-| **ChatGPT-4 extraction of heart failure symptoms and signs from electronic health records** | Progress in Cardiovascular Diseases | 2024 | [Paper](https://www.sciencedirect.com/science/article/pii/S0033062024001476) | Not Available |
 
 ---
 
@@ -534,7 +508,6 @@ _AI agents for stroke diagnosis, dysarthria, and cerebrovascular disease managem
 | :---- | :---- | :--- | :--------- | :----------- |
 | **An Explainable Agentic AI Framework for Uncertainty-Aware and Abstention-Enabled Acute Ischemic Stroke Imaging Decisions** | arXiv | 2026.01 | [Paper](https://arxiv.org/abs/2601.01008) | Not Available |
 | **Wearable Intelligent Throat Enables Natural Speech in Stroke Patients with Dysarthria** | Nature Communications | 2026 | [Paper](http://arxiv.org/abs/2411.18266v3) | Not Available |
-| **Accuracy of Large Language Models to Identify Stroke Subtypes Within Unstructured Electronic Health Record Data** | Stroke | 2025 | [Paper](https://www.ahajournals.org/doi/abs/10.1161/STROKEAHA.125.051993) | Not Available |
 
 ---
 
@@ -571,7 +544,6 @@ _AI agents for rare disease diagnosis, Mendelian diseases, CRISPR, gene analysis
 | **HEAL-KGGen: A Hierarchical Multi-Agent LLM Framework for Genetic Biomarker-Based Medical Diagnosis** | biorxiv | 2025 | [Paper](https://www.biorxiv.org/content/10.1101/2025.06.03.657521v1) | ![Star](https://img.shields.io/github/stars/Ayanami-E/HEAL-KGGen.svg?style=social&label=Star) <br> [GitHub](https://github.com/Ayanami-E/HEAL-KGGen) |
 | **AI-HOPE: An AI-Driven conversational agent for enhanced clinical and genomic data integration** | Bioinformatics | 2024.12 | [Paper](https://academic.oup.com/bioinformatics/article/41/7/btaf359/8169327) | ![Star](https://img.shields.io/github/stars/Velazquez-Villarreal-Lab/AI-HOPE.svg?style=social&label=Star) <br> [GitHub](https://github.com/Velazquez-Villarreal-Lab/AI-HOPE) |
 | **dna-claude-analysis: AI-powered personal genome analysis agent using Claude** | GitHub | 2025 | Not Available | ![Star](https://img.shields.io/github/stars/shmlkv/dna-claude-analysis.svg?style=social&label=Star) <br> [GitHub](https://github.com/shmlkv/dna-claude-analysis) |
-| **A hybrid framework with large language models for rare disease phenotyping** | BMC Medical Informatics and Decision Making | 2024 | [Paper](https://link.springer.com/article/10.1186/s12911-024-02698-7) | Not Available |
 
 ---
 
@@ -586,7 +558,6 @@ _AI agents for sepsis, antimicrobial therapy, and vaccination._
 | **AI-VaxGuide: An Agentic RAG-Based LLM for Vaccination Decisions** | arXiv | 2025.07 | [Paper](http://arxiv.org/abs/2507.03493v1) | [huggingface](https://huggingface.co/VaxGuide) |
 | **Can A Society of Generative Agents Simulate Human Behavior and Inform Public Health Policy? A Case Study on Vaccine Hesitancy** | COLM | 2025 | [Paper](http://arxiv.org/abs/2503.09639v4) | Not Available |
 | **Fine-Tuning DialoGPT on Common Diseases in Rural Nepal for Medical Conversations** | arXiv | 2025.11 | [Paper](https://arxiv.org/abs/2511.00514) | Not Available |
-| **Integrating a host biomarker with a large language model for diagnosis of lower respiratory tract infection** | Nature Communications | 2025 | [Paper](https://www.nature.com/articles/s41467-025-66218-5) | Not Available |
 
 ---
 
@@ -660,7 +631,6 @@ _AI agents for chronic pain prediction and management._
 | Title | Venue | Date | Paper Link | Project Page |
 | :---- | :---- | :--- | :--------- | :----------- |
 | **Advancing the prediction and understanding of placebo responses in chronic back pain using large language models** | medrxiv | 2025.01 | [Paper](https://doi.org/10.1101/2025.01.21.25320888) | Not Available |
-| **A large language model-based generative natural language processing framework fine-tuned on clinical notes accurately extracts headache frequency from electronic health records** | Headache | 2024 | [Paper](https://headachejournal.onlinelibrary.wiley.com/doi/abs/10.1111/head.14702) | Not Available |
 
 ---
 
@@ -707,7 +677,6 @@ _High-impact general clinical AI agents published in top venues (Nature family, 
 | **Menti: Bridging medical calculator and llm agent with nested tool calling** | NAACL | 2025 | [Paper](https://aclanthology.org/2025.naacl-long.263/) | Not Available |
 | **PRISM: Patient Records Interpretation for Semantic Clinical Trial Matching using Large Language Models** | npj Digital Medicine | 2024.01 | [Paper](https://www.nature.com/articles/s41746-024-01274-7) | Not Available |
 | **MoMA: a mixture-of-multimodal-agents architecture for enhancing clinical prediction modelling** | npj Digital Medicine | 2026 | [Paper](https://www.nature.com/articles/s41746-025-02219-4) | Not Available |
-| **Social determinants of health extraction from clinical notes across institutions using large language models** | npj Digital Medicine | 2025 | [Paper](https://www.nature.com/articles/s41746-025-01645-8) | Not Available |
 
 ---
 
@@ -776,7 +745,6 @@ _High-impact datasets and benchmarks for evaluating medical AI agents._
 | **Scoping Review of Agentic AI Systems in Healthcare** | HAL | 2025 | [Paper](https://hal.science/hal-05491919v1/document) | Not Available |
 | **AI Agents in Modern Healthcare: From Foundation to Pioneer** | Preprints.org | 2025 | [Paper](https://www.preprints.org/manuscript/202503.1352) | Not Available |
 | **Multi-Agent AI Systems in Healthcare: A Systematic Review Enhancing Clinical Decision-Making** | Asian Journal of Medical Principles and Clinical Practice | 2025 | [Paper](https://journalajmpcp.com/index.php/AJMPCP/article/view/288) | Not Available |
-| **Testing and evaluation of generative large language models in electronic health record applications: a systematic review** | JAMIA | 2026 | [Paper](https://academic.oup.com/jamia/advance-article-abstract/doi/10.1093/jamia/ocaf233/8424252) | Not Available |
 
 ### **19.2 Radiology-Specific Surveys**
 
@@ -797,7 +765,6 @@ _High-impact datasets and benchmarks for evaluating medical AI agents._
 | **Reimagining psychiatric care with agentic AI: promise, challenges, and a roadmap forward** | npj Digital Medicine | 2026 | [Paper](https://www.nature.com/articles/s41746-026-02453-4) | Not Available |
 | **Large language model-driven agents in nursing practice: A scoping review** | Nurse Education Today | 2025 | [Paper](https://www.sciencedirect.com/science/article/pii/S2352013225001309) | Not Available |
 | **Simulated patient systems powered by large language model-based AI agents offer potential for transforming medical education** | Communications Medicine | 2025 | [Paper](https://www.nature.com/articles/s43856-025-01283-x) | Not Available |
-| **Large language models for neurology: a mini review** | Frontiers in Digital Health | 2026 | [Paper](https://www.frontiersin.org/journals/digital-health/articles/10.3389/fdgth.2025.1732759/full) | Not Available |
 
 ### **19.4 Biomedical Research & Discovery Surveys**
 
