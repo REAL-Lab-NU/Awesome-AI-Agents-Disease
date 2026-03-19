@@ -73,6 +73,7 @@ _Papers below are listed chronologically. For disease-specific organization, see
 
 ## Year 2026
 
+1. [JMIR Medical Informatics 2026] **Prompting and Fine-Tuning Large Language Models for Parkinson Disease Diagnosis** [[paper]](https://medinform.jmir.org/2026/1/e77561)
 1. [arxiv 2026.3] **Meissa: Multi-modal Medical Agentic Intelligence** [[paper]](https://arxiv.org/abs/2603.09018) [[Github]](https://github.com/Schuture/Meissa)
 1. [ICLR 2026] **CARE: Towards Clinical Accountability in Multi-Modal Medical Reasoning with an Evidence-Grounded Agentic Framework** [[paper]](https://arxiv.org/abs/2603.01607)
 1. [ICLR 2026] **ATPO: Adaptive Tree Policy Optimization for Multi-Turn Medical Dialogue** [[paper]](https://arxiv.org/abs/2603.02216)
@@ -129,9 +130,11 @@ _Papers below are listed chronologically. For disease-specific organization, see
 
 ## Year 2025
 
+1. [arXiv 2025.02] **Agentic AI for Scaling Diagnosis and Care in Neurodegenerative Disease** [[paper]](https://arxiv.org/abs/2502.06842)
+1. [medRxiv 2025.10] **Agentic Generative AI System for Classification of Pathology-Confirmed Primary Progressive Aphasia Variants** [[paper]](https://www.medrxiv.org/content/10.1101/2025.10.28.25338977v2)
 1. [CHI 2025] **Patrika: AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking** [[paper]](https://dl.acm.org/doi/10.1145/3706598.3714280)
 1. [MDS 2025] **A Conversational GPT Agent for Parkinson's Disease (PD-GPT)** [[paper]](https://www.mdsabstracts.org/abstract/a-conversational-gpt-agent-for-parkinsons-disease/)
-1. [PubMed 2025] **Leveraging Large Language Models for Personalized Parkinson's Disease Treatment** [[paper]](https://pubmed.ncbi.nlm.nih.gov/40748804/)
+1. [IEEE JBHI 2026] **Leveraging Large Language Models for Personalized Parkinson's Disease Treatment** [[paper]](https://doi.org/10.1109/JBHI.2025.3594014)
 1. [Scientific Reports 2025] **Detection and diagnosis of diabetic retinopathy in retinal fundus images using agentic AI approaches** [[paper]](https://www.nature.com/articles/s41598-025-34016-0)
 1. [Scientific Reports 2025] **My diabetes care: an AI-based mobile app with conversational agent for type 2 diabetes self-management** [[paper]](https://www.nature.com/articles/s41598-025-24172-8)
 1. [J Healthcare Informatics Research 2025] **Assessing the User Experience of an LLM-Based Conversational Assistant in Diabetes Mellitus Care** [[paper]](https://link.springer.com/article/10.1007/s41666-025-00217-5)
@@ -464,7 +467,10 @@ _AI agents for Alzheimer’s disease, dementia, Parkinson’s, and neurological 
 | **A Conversational Agent for Early Detection of Neurotoxic Effects of Medications through Automated Intensive Observation** | PACIFIC SYMPOSIUM ON BIOCOMPUTING | 2024 | [Paper](https://www.worldscientific.com/doi/abs/10.1142/9789811286421_0003) | Not Available |
 | **Patrika: AI-Enabled Conversational Journaling for Advancing Parkinson's Disease Symptom Tracking** | CHI | 2025 | [Paper](https://dl.acm.org/doi/10.1145/3706598.3714280) | Not Available |
 | **A Conversational GPT Agent for Parkinson's Disease (PD-GPT)** | MDS Abstracts | 2025 | [Paper](https://www.mdsabstracts.org/abstract/a-conversational-gpt-agent-for-parkinsons-disease/) | Not Available |
-| **Leveraging Large Language Models for Personalized Parkinson's Disease Treatment** | PubMed | 2025 | [Paper](https://pubmed.ncbi.nlm.nih.gov/40748804/) | Not Available |
+| **Leveraging Large Language Models for Personalized Parkinson's Disease Treatment** | IEEE JBHI | 2026 | [Paper](https://doi.org/10.1109/JBHI.2025.3594014) | Not Available |
+| **Agentic AI for Scaling Diagnosis and Care in Neurodegenerative Disease** | arXiv | 2025.02 | [Paper](https://arxiv.org/abs/2502.06842) | Not Available |
+| **Agentic Generative AI System for Classification of Pathology-Confirmed Primary Progressive Aphasia Variants** | medRxiv | 2025.10 | [Paper](https://www.medrxiv.org/content/10.1101/2025.10.28.25338977v2) | Not Available |
+| **Prompting and Fine-Tuning Large Language Models for Parkinson Disease Diagnosis** | JMIR Medical Informatics | 2026 | [Paper](https://medinform.jmir.org/2026/1/e77561) | Not Available |
 
 ---
 
